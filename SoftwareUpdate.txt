@@ -1,1 +1,1 @@
-ultralytics 8.0.229 add model.embed() method (#7098)
+New MLFLOW_KEEP_RUN_ACTIVE flag for enhanced MLflow run management (#8808)
