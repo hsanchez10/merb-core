@@ -1,1 +1,1 @@
-Resize angle, count, and stage on keypoint number change (#7598)
+ultralytics 8.1.15 add Python 3.12 compatibility (#8210)
